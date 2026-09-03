@@ -1,0 +1,14 @@
+{
+  "name": "canOpener",
+  "version": "2.01 (Web 5.46)",
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "improv": true,
+      "parts": [
+        { "path": "boot_app0.bin", "offset": 57344 },
+        { "path": "firmware.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
