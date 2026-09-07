@@ -1,6 +1,6 @@
 {
   "name": "canOpener",
-  "version": "2.01 (Web 5.46)",
+  "version": "2.03 (Web 5.46)",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
